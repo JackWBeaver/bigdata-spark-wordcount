@@ -1,7 +1,7 @@
 # bigdata-spark-wordcount
 
 ## Author
-Jack W Beaver
+Jack W Beaver <br>
 GitHub Profile: https://github.com/JackWBeaver
 
 ## Initialization
@@ -46,7 +46,7 @@ scala> writingToAFile(new File("C:/output.txt")) { p => top10.foreach(j.println)
 ```
 
 ## Visual Representation
-<img src="WordCountVisualization.PNG" width="600" height="300"/>
+<img src="WordCountVisualization.PNG" width="650" height="300"/>
 
 ## References
 - Spark Setup and Dataset: https://github.com/denisecase/setup-spark
