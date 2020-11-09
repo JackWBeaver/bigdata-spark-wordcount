@@ -42,7 +42,7 @@ scala> writingToAFile(new File("C:/output.txt")) { p => top10.foreach(j.println)
 ```
 
 ## Visual Representation
-<img>
+<img="WordCountVisualization.PNG" width="600" height="300"/>
 
 ## References
 - Spark Setup and Dataset: https://github.com/denisecase/setup-spark
